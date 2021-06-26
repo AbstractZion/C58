@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: lightsteelblue;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+#quotesix {
+    text-align: center;
+    font-size: 20px;
+}
+
+#quotefive {
+    text-align: center;
+    font-size: 20px;
+}
+
+#quotefour {
+    text-align: center;
+    font-size: 20px;
+}
+
+#quotethree {
+    text-align: center;
+    font-size: 20px;
+}
+
+#quotetwo {
+    text-align: center;
+    font-size: 20px;
+}
+
+#quoteone {
+    text-align: center;
+    font-size: 20px;
+}
+
+#title {
+    text-align: center;
+}
+
+img {
+    width: 450px;
+}
